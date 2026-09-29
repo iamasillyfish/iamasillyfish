@@ -6,11 +6,6 @@ Hello! I'm Burnie.
 
 I am interested in using **data, AI, and software engineering** to build practical solutions for real-world problems.
 
-Currently, I am exploring the intersection of:
-- 📊 Data Science
-- 🤖 Artificial Intelligence
-- 💻 Software Engineering
-- 🌍 Business Applications
 #### 🛠 Skills
 
 <p>
